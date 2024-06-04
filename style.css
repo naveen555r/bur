@@ -1,0 +1,189 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url('/burger\ pics.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    font-family: "Times New Roman", Georgia, Serif;
+    letter-spacing: 5px;
+    font-size: 15px;
+    color: gray;
+    margin-top: 20px;
+}
+.para1{
+    width: 50%;
+    height: 700px; 
+    float: left; 
+}
+.para{
+    width: 50%;
+    height: 700px;
+    float: left;
+    
+}
+.img-s{
+    height: 650px;
+    margin-top: 20px;
+    width: 500px;
+    margin-left: 100px;
+}
+.header{
+    background-color:white;
+    width: 100%;
+    height: 50px;
+    color: black;
+    display: flex;
+  padding: 15px;  
+  
+}
+.nav ul{
+    padding-left: 60rem;
+    word-spacing: 50px;
+    margin-top: 20px ;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 5px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.goat{
+    
+    margin-top: 800px;
+    color:antiquewhite;
+}
+.para{
+    background-color: white;
+    line-height: 30px;
+}
+.lau{
+    font-family: "Times New Roman", Georgia, Serif;
+    letter-spacing: 4px;
+    font-size: 20px;
+    width: 50%;
+   line-height:30px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 150px;
+    
+    
+
+}
+.img-v{
+    width: 50%;
+    height: 500px;
+    float: right;
+    ; 
+}
+.lau1{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    line-height: 300px;
+    margin-top: 20px;
+}
+.lau2{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+.lau3{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+.lau4{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+     
+}
+.lau5{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+.lau6{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+} */
+
+
+
+.section1{
+    display: flex;
+    gap: 80px;
+    margin-left: 100px;
+}
+
+.content{
+    width: 600px;
+    line-height: 3rem;
+}
+
+.About{
+    padding-top: 100px;
+}
+
+i{
+    font-size: 20px;
+   
+}
+.section{
+    margin-top: 50px;
+}
+/* 
+font-family: "Nanum Myeongjo", serif;
+font-weight: 400; */
+
+.menu{
+    width: 600px;
+    padding-top: 50px;
+}
+
+.menu-section{
+    display: flex;
+    gap: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+h5{
+    font-family: "Nanum Myeongjo", serif;  
+    font-weight: 800; 
+  
+    font-size: 20px;
+}
+
+p{
+    font-family: "Nanum Myeongjo", serif;
+font-weight: 400; 
+}
+.nav{
+    
+    float:left;
+    
+    
+}
+.nav ul li {
+    float: left;
+    padding: 20px;
+    text-decoration: none;
+    display: inline;
+    margin-left: 150px;
+
+    
+}
+input{
+    width: 1500px;
+    
+    
+}
